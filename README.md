@@ -1,3 +1,3 @@
 # testing-git
 This is my second repo
-Aythor - Anshu Patidar
+Author - Anshu Patidar
